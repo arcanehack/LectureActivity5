@@ -1,0 +1,6 @@
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity5\LectureActivity5\LectureActivity5\bin\LectureActivity5.dll.config
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity5\LectureActivity5\LectureActivity5\bin\LectureActivity5.dll
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity5\LectureActivity5\LectureActivity5\bin\LectureActivity5.pdb
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity5\LectureActivity5\LectureActivity5\obj\Debug\LectureActivity5.csproj.CoreCompileInputs.cache
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity5\LectureActivity5\LectureActivity5\obj\Debug\LectureActivity5.dll
+G:\My Drive\School Assignments\CSE445\Visual Studio Projects\LectureActivity5\LectureActivity5\LectureActivity5\obj\Debug\LectureActivity5.pdb
